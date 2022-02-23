@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhav-bhalani&label=Profile%20views&color=0e75b6&style=flat" alt="madhav-bhalani" /> </p>
 
-- 🌱 I’m currently learning **JavaScript and PhP**
+- 🌱 I’m currently learning **JavaScript, PhP and Python**
 
 - 📫 How to reach me **madhavbhalani@gmail.com**
 
