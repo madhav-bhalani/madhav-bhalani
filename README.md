@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Python, Django & JavaScript**
 
-- 👨‍💻 My portfolio [madhavbhalani.guithub.io](madhavbhalani.guithub.io)
+- 👨‍💻 My portfolio [madhav-bhalani.github.io/Madhav--Bhalani/](https://madhav-bhalani.github.io/Madhav--Bhalani/)
 
 - 💬 Ask me about **Web Development**
 
