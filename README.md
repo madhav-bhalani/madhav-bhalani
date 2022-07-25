@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/mads_bhalani" target="blank"><img src="https://img.shields.io/twitter/follow/mads_bhalani?logo=twitter&style=for-the-badge" alt="mads_bhalani" /></a> </p>
 
-- 🌱 I’m currently learning **Python, Django & JavaScript**
+- 🌱 I’m currently learning **Kotlin & JavaScript**
 
 - 👨‍💻 My portfolio [madhav-bhalani.github.io/Madhav--Bhalani/](https://madhav-bhalani.github.io/Madhav--Bhalani/)
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Web Development and App Development**
 
 - 📫 How to reach me **madhavbhalani@gmail.com**
 
