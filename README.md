@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Kotlin & JavaScript**
 
-- 👨‍💻 My portfolio [madhav-bhalani.github.io/Madhav--Bhalani/](https://madhav-bhalani.github.io/)
+- 👨‍💻 My portfolio [madhav-bhalani.github.io/](https://madhav-bhalani.github.io/)
 
 - 💬 Ask me about **Web Development and App Development**
 
