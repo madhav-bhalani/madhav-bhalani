@@ -1,18 +1,17 @@
 [![MasterHead](https://www.joomlageeks.com/wp-content/uploads/2014/05/Joomla-Web-Development.png)](https://madhavbhalani.io)
 <h1 align="center">Hi 👋, I'm Madhav Bhalani</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate web developer developer from India</h3>
 
 <img align="right" width="400" src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif" alt="Coding GIF">
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhav-bhalani&label=Profile%20views&color=0e75b6&style=flat" alt="madhav-bhalani" /> </p>
 
-<p align="left"> <a href="https://twitter.com/mads_bhalani" target="blank"><img src="https://img.shields.io/twitter/follow/mads_bhalani?logo=twitter&style=for-the-badge" alt="mads_bhalani" /></a> </p>
 
-- 🌱 I’m currently learning **Kotlin & JavaScript**
+- 🌱 I’m currently learning **JavaScript**
 
 - 👨‍💻 My portfolio [madhav-bhalani.github.io/](https://madhav-bhalani.github.io/)
 
-- 💬 Ask me about **Web Development and App Development**
+- 💬 Ask me about **Web Development and Design**
 
 - 📫 How to reach me **madhavbhalani@gmail.com**
 
