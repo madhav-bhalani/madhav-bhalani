@@ -6,11 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhav-bhalani&label=Profile%20views&color=0e75b6&style=flat" alt="madhav-bhalani" /> </p>
 
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 Growing and learning one step at a time
 
-- 👨‍💻 My portfolio [madhav-bhalani.github.io/](https://madhav-bhalani.github.io/)
-
-- 💬 Ask me about **Web Development and Design**
+- 💬 Ask me about **Full Stack Web Development**
 
 - 📫 How to reach me **madhavbhalani@gmail.com**
 
