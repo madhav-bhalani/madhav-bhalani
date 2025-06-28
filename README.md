@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Madhav Bhalani</h1>
-<h3 align="center">A passionate web developer developer from India</h3>
+<h3 align="center">A passionate web developer from India</h3>
 
 <img align="right" width="400" src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif" alt="Coding GIF">
  
